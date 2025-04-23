@@ -5,7 +5,7 @@ version = '0.0.1'
 dependencies = [
     "einops",
     'torch',
-    'torchaudio,
+    'torchaudio',
     'transformers==4.35.2'
 ]
 
